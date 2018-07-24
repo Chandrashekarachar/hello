@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Hello World! Git</title>
+<title>Hello World 2 Git</title>
 </head>
 <body>
 	<h1>Hello World! my</h1>
